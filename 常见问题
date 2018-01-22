@@ -1,0 +1,4 @@
+用eclipse无法查看源码
+  Window > Preference > Java > Installed JREs 选中包edit ,再选中，然后Source Attachment ，extenal location 找到 src.zip确定
+  
+  红色下划线显示错误，是因为没有导入包，可以光标点到上面用快捷键 ctrl+shift+O来导入
